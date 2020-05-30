@@ -1,0 +1,3 @@
+[submodule "CoronaBot"]
+	path = CoronaBot
+	url = https://github.com/rixinsc/CoronaBot.git
