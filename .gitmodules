@@ -3,4 +3,4 @@
 	url = https://github.com/rixinsc/CoronaBot.git
 [submodule "discord.py_BaseBot"]
 	path = discord.py_BaseBot
-	url = https://github.com/Proladon/discord.py_BaseBot
+	url = https://github.com/Proladon/discord.py_BaseBot.git
