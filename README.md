@@ -15,3 +15,5 @@ Clone 此完整專案後，使用以下指令來添加專案：
 - CoronaBot - 針對新型冠狀病毒COVID-19資訊的一個Discord機器人模組，通過它能獲取各國的感染人數等信息。
 
 - discord.py_BaseBot - Python Discord bot 基本骨架，用於快速構建，省下一些基本的設定操作。
+
+- Code_Tutorial - 由`睿睿#3141`整理的程式語言講義，給大家自學程式的一個法寶。
