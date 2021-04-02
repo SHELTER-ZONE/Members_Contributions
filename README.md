@@ -1,9 +1,12 @@
 # Members_Contributions
 成員專案貢獻
 
+## 貢獻方法 1
+直接發 PR
+
+## 貢獻方法 2
 請使用`git clone https://github.com/SHELTER-ZONE/Members_Contributions.git --recursive`以完整下載此repo。
 
-## 貢獻專案
 Clone 此完整專案後，使用以下指令來添加專案：  
 `git submodule add <專案.git url> <要在這裡顯示的專案名稱>`  
 
