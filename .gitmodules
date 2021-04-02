@@ -7,6 +7,3 @@
 [submodule "Code_Tutorial"]
 	path = Code_Tutorial
 	url = https://github.com/minexo79/Code_Tutorial.git
-[submodule "HarTex-rust-discord-bot"]
-	path = DiscordBot/HarTex-rust-discord-bot
-	url = https://github.com/HT-Studios/HarTex-rust-discord-bot.git
