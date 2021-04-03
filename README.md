@@ -8,4 +8,4 @@ SHELTER ZONE - 成員專案貢獻
 
 - [PyBot-backBone](https://github.com/Proladon/PyBot-backBone) - Python Discord bot 基本骨架，用於快速構建，省下一些基本的設定操作。
 
-- [HarTex-rust-discord-bot](https://github.com/HT-Studios/HarTex-rust-discord-bot) - 一個用Rust程式語言寫的Discord機器人，轉為伺服器管理和控制而設計。
+- [HarTex-rust-discord-bot](https://github.com/HT-Studios/HarTex-rust-discord-bot) - 一個用Rust程式語言寫的Discord機器人，專為伺服器管理和控制而設計。
